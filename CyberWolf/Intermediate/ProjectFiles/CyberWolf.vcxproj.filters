@@ -39,5 +39,29 @@
     <ClInclude Include="..\..\Source\CyberWolf\CyberWolf.h">
       <Filter>Source\CyberWolf</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\CyberWolf\MainCharacter.cpp">
+      <Filter>Source\CyberWolf</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CyberWolf\MainCharacter.h">
+      <Filter>Source\CyberWolf</Filter>
+    </ClInclude>
+    <Filter Include="Source\CyberWolf\TP_ThirdPerson">
+      <UniqueIdentifier>{DADF5235-757E-301D-9576-4B55D72F9128}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CyberWolf\TP_ThirdPerson\TP_ThirdPerson.h">
+      <Filter>Source\CyberWolf\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CyberWolf\TP_ThirdPerson\TP_ThirdPersonCharacter.cpp">
+      <Filter>Source\CyberWolf\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CyberWolf\TP_ThirdPerson\TP_ThirdPersonCharacter.h">
+      <Filter>Source\CyberWolf\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CyberWolf\TP_ThirdPerson\TP_ThirdPersonGameMode.cpp">
+      <Filter>Source\CyberWolf\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CyberWolf\TP_ThirdPerson\TP_ThirdPersonGameMode.h">
+      <Filter>Source\CyberWolf\TP_ThirdPerson</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

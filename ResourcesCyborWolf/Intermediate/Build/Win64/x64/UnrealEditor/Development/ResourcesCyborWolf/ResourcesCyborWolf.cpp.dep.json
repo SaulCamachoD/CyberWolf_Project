@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengineproyects\\cyberwolfproject\\cyberwolf_project\\resourcescyborwolf\\source\\resourcescyborwolf\\resourcescyborwolf.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengineproyects\\cyberwolfproject\\cyberwolf_project\\resourcescyborwolf\\intermediate\\build\\win64\\x64\\resourcescyborwolfeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealengineproyects\\cyberwolfproject\\cyberwolf_project\\resourcescyborwolf\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\resourcescyborwolf\\definitions.resourcescyborwolf.h",
+            "c:\\unrealengineproyects\\cyberwolfproject\\cyberwolf_project\\resourcescyborwolf\\source\\resourcescyborwolf\\resourcescyborwolf.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

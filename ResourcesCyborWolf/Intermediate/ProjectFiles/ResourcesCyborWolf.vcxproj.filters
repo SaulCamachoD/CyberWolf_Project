@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ResourcesCyborWolf.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ResourcesCyborWolf.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ResourcesCyborWolfEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ResourcesCyborWolf">
+      <UniqueIdentifier>{30973D0A-534F-3277-A3F4-3FFF4AF8AD23}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ResourcesCyborWolf\ResourcesCyborWolf.Build.cs">
+      <Filter>Source\ResourcesCyborWolf</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ResourcesCyborWolf\ResourcesCyborWolf.cpp">
+      <Filter>Source\ResourcesCyborWolf</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ResourcesCyborWolf\ResourcesCyborWolf.h">
+      <Filter>Source\ResourcesCyborWolf</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

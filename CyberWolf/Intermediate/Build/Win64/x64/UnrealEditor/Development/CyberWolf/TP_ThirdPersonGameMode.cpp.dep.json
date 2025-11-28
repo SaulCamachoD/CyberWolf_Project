@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengineproyects\\cyberwolfproject\\cyberwolf_project\\cyberwolf\\source\\cyberwolf\\tp_thirdperson\\tp_thirdpersongamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengineproyects\\cyberwolfproject\\cyberwolf_project\\cyberwolf\\intermediate\\build\\win64\\x64\\cyberwolfeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealengineproyects\\cyberwolfproject\\cyberwolf_project\\cyberwolf\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cyberwolf\\definitions.cyberwolf.h",
+            "c:\\unrealengineproyects\\cyberwolfproject\\cyberwolf_project\\cyberwolf\\source\\cyberwolf\\tp_thirdperson\\tp_thirdpersongamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\unrealengineproyects\\cyberwolfproject\\cyberwolf_project\\cyberwolf\\intermediate\\build\\win64\\unrealeditor\\inc\\cyberwolf\\uht\\tp_thirdpersongamemode.generated.h",
+            "c:\\unrealengineproyects\\cyberwolfproject\\cyberwolf_project\\cyberwolf\\source\\cyberwolf\\tp_thirdperson\\tp_thirdpersoncharacter.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\unrealengineproyects\\cyberwolfproject\\cyberwolf_project\\cyberwolf\\intermediate\\build\\win64\\unrealeditor\\inc\\cyberwolf\\uht\\tp_thirdpersoncharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

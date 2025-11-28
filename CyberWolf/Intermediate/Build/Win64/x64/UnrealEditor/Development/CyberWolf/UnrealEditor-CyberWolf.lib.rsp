@@ -7,6 +7,9 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\UnrealEngineProyects\CyberWolfProject\CyberWolf_Project\CyberWolf\Intermediate\Build\Win64\x64\CyberWolfEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\UnrealEngineProyects\CyberWolfProject\CyberWolf_Project\CyberWolf\Intermediate\Build\Win64\x64\UnrealEditor\Development\CyberWolf\CyberWolf.init.gen.cpp.obj"
+"C:\UnrealEngineProyects\CyberWolfProject\CyberWolf_Project\CyberWolf\Intermediate\Build\Win64\x64\UnrealEditor\Development\CyberWolf\MainCharacter.gen.cpp.obj"
 "C:\UnrealEngineProyects\CyberWolfProject\CyberWolf_Project\CyberWolf\Intermediate\Build\Win64\x64\UnrealEditor\Development\CyberWolf\CyberWolf.cpp.obj"
+"C:\UnrealEngineProyects\CyberWolfProject\CyberWolf_Project\CyberWolf\Intermediate\Build\Win64\x64\UnrealEditor\Development\CyberWolf\MainCharacter.cpp.obj"
 "C:\UnrealEngineProyects\CyberWolfProject\CyberWolf_Project\CyberWolf\Intermediate\Build\Win64\x64\UnrealEditor\Development\CyberWolf\Default.rc2.res"
 /OUT:"C:\UnrealEngineProyects\CyberWolfProject\CyberWolf_Project\CyberWolf\Intermediate\Build\Win64\x64\UnrealEditor\Development\CyberWolf\UnrealEditor-CyberWolf.lib"

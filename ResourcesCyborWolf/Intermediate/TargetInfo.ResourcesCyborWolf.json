@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ResourcesCyborWolf",
+			"Path": "..\\Source\\ResourcesCyborWolf.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ResourcesCyborWolfEditor",
+			"Path": "..\\Source\\ResourcesCyborWolfEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

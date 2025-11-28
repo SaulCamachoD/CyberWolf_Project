@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UnrealEngineProyects\\CyberWolfProject\\CyberWolf_Project\\ResourcesCyborWolf\\Source\\ResourcesCyborWolf\\ResourcesCyborWolf.Build.cs",
+		"C:\\UnrealEngineProyects\\CyberWolfProject\\CyberWolf_Project\\ResourcesCyborWolf\\Source\\ResourcesCyborWolf.Target.cs",
+		"C:\\UnrealEngineProyects\\CyberWolfProject\\CyberWolf_Project\\ResourcesCyborWolf\\Source\\ResourcesCyborWolfEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
