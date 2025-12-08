@@ -258,6 +258,8 @@
 /I "Developer\WidgetRegistration\Public"
 /I "C:\UnrealEngineProyects\CyberWolfProject\CyberWolf_Project\CyberWolf\Intermediate\Build\Win64\UnrealEditor\Inc\CyberWolf\UHT"
 /I "C:\UnrealEngineProyects\CyberWolfProject\CyberWolf_Project\CyberWolf\Source"
+/I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
+/I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"
 /external:W0
 /external:I "ThirdParty\mimalloc\include"
 /external:I "ThirdParty\LibTiff\Source\Win64"
