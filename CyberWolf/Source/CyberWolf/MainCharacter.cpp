@@ -28,6 +28,8 @@ void AMainCharacter::BeginPlay()
 {
 	Super::BeginPlay();
 
+	GetCharacterMovement()->MaxWalkSpeed = 200.0f;
+	
 	if (APlayerController* PlayerController = Cast<APlayerController>(GetController()))
 	{
 		if (ULocalPlayer* LocalPlayer = PlayerController->GetLocalPlayer())
@@ -77,6 +79,16 @@ void AMainCharacter::HandleJump(const FInputActionValue& Value)
 
 }
 
+void AMainCharacter::StartSprinting()
+{
+	GetCharacterMovement()->MaxWalkSpeed = 600.0f;
+}
+
+void AMainCharacter::StopSprinting()
+{
+	GetCharacterMovement()->MaxWalkSpeed = 200.0f;
+}
+
 void AMainCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
@@ -93,6 +105,8 @@ void AMainCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompo
 		EIC->BindAction(MoveAction, ETriggerEvent::Triggered, this, &AMainCharacter::Move);
 		EIC->BindAction(LookAction, ETriggerEvent::Triggered, this, &AMainCharacter::Look);
 		EIC->BindAction(JumpAction, ETriggerEvent::Triggered, this, &AMainCharacter::HandleJump);
+		EIC->BindAction(RunAction, ETriggerEvent::Triggered, this, &AMainCharacter::StartSprinting);
+		EIC->BindAction(RunAction, ETriggerEvent::Completed, this, &AMainCharacter::StopSprinting);
 		
 		
 	}
