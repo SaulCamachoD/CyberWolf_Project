@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/UnrealEngineProyects/CyberWolfProject/CyberWolf_Project/ResourcesCyborWolf/Content/Maps/Main.umap",
-				"C:/UnrealEngineProyects/CyberWolfProject/CyberWolf_Project/ResourcesCyborWolf/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/UnrealEngineProyects/CyberWolfProject/CyberWolf_Project/ResourcesCyborWolf/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/UnrealEngineProyects/CyberWolfProject/CyberWolf_Project/ResourcesCyborWolf/Content/Dark_Knight/Maps/Preview.umap"
 			]
 		}
 	]
